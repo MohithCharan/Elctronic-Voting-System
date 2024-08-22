@@ -23,6 +23,6 @@ This project is a simple console-based Electronic Voting System built using Node
 
 ## Screenshots
 
-![](images/output.png)
+![](output.png)
 <br>
-![](images/json.png)
+![](json.png)
